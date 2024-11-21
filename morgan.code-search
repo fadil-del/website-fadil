@@ -1,0 +1,25 @@
+# Query: morgan
+# ContextLines: 1
+
+5 results - 1 file
+
+index.html:
+   79            <!--<p class="display-6 color-d">Hello, world!</p>-->
+   80:           <h1 class="intro-title mb-4">I am M. Fadhil Muzhaffar</h1>
+   81            <p class="intro-subtitle"><span class="text-slider-items">CEO DevFolio,Web Developer,Web Designer,Frontend Developer,Graphic Designer</span><strong class="text-slider"></strong></p>
+
+  103                      <div class="about-info">
+  104:                       <p><span class="title-s">Name: </span> <span>Morgan Freeman</span></p>
+  105                        <p><span class="title-s">Profile: </span> <span>full stack developer</span></p>
+
+  575                    <img src="img/testimonial-2.jpg" alt="" class="avatar rounded-circle">
+  576:                   <span class="author">Morgan Freeman</span>
+  577                  </a>
+
+  606                    <img src="img/testimonial-2.jpg" alt="" class="avatar rounded-circle">
+  607:                   <span class="author">Morgan Freeman</span>
+  608                  </a>
+
+  637                    <img src="img/testimonial-2.jpg" alt="" class="avatar rounded-circle">
+  638:                   <span class="author">Morgan Freeman</span>
+  639                  </a>
